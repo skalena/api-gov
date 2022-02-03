@@ -112,3 +112,4 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 The initial APIs are documented in the project.
 
 For select a full api please use this: http://localhost:1337/api/departments/2?populate=*
+
